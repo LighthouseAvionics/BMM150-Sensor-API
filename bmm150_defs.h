@@ -145,7 +145,7 @@
 #define BMM150_W_ADV_SELF_TEST_FAIL               INT8_C(8)
 
 /*! @name CHIP ID & SOFT RESET VALUES      */
-#define BMM150_CHIP_ID                            UINT8_C(0xD8)
+#define BMM150_CHIP_ID                            UINT8_C(0x32)
 #define BMM150_SET_SOFT_RESET                     UINT8_C(0x82)
 
 /*! @name POWER MODE DEFINTIONS      */
